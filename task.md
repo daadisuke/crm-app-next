@@ -2,7 +2,7 @@
 
 ## 進捗概要
 
-- **全体進捗**: 22% (2/9 フェーズ完了)
+- **全体進捗**: 33% (3/9 フェーズ完了)
 - **最終更新**: 2024年
 
 ---
@@ -51,19 +51,19 @@
 
 ---
 
-## Phase 3: テーマとレイアウト
+## Phase 3: テーマとレイアウト ✅
 
-- [ ] テーマファイルのコピー
-  - [ ] `app/theme/themePrimitives.ts`
-  - [ ] `app/theme/AppTheme.tsx`
-  - [ ] `app/theme/customizations/*.tsx` (6ファイル)
-- [ ] ルートレイアウト（`app/layout.tsx`）の実装
-  - [ ] HTML構造の実装
-  - [ ] AppThemeの統合
-  - [ ] メタデータの設定
-- [ ] グローバルCSSの移行
-  - [ ] `app/globals.css`の作成
-  - [ ] スタイルの移行
+- [x] テーマファイルのコピー
+  - [x] `app/theme/themePrimitives.ts`
+  - [x] `app/theme/AppTheme.tsx`
+  - [x] `app/theme/customizations/*.tsx` (6ファイル)
+- [x] ルートレイアウト（`app/layout.tsx`）の実装
+  - [x] HTML構造の実装
+  - [x] AppThemeの統合
+  - [x] メタデータの設定
+- [x] グローバルCSSの移行
+  - [x] `app/globals.css`の作成
+  - [x] スタイルの移行
 
 ---
 
